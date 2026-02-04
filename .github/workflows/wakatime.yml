@@ -15,6 +15,9 @@ jobs:
       - uses: athul/waka-readme@v0.3.0
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          SHOW_TITLE: true
-          TIME_RANGE: last_7_days
-          LANG_COUNT: 5
+          SHOW_TITLE: false
+          SHOW_TIME: true
+          SHOW_TOTAL: true
+          # TIME_RANGE: last_7_days
+          # LANG_COUNT: 5
+          SHOW_BAR: false
