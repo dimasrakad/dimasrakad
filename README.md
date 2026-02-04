@@ -18,5 +18,14 @@ Here are some ideas to get you started:
 ## ⏱️ WakaTime Stats
 
 <!--START_SECTION:waka-->
+
+```txt
+C#           6 hrs 54 mins   ███████████████▓░░░░░░░░░   63.29 %
+TypeScript   3 hrs 21 mins   ███████▓░░░░░░░░░░░░░░░░░   30.79 %
+HTML         37 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.66 %
+JSON         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+```
+
 <!--END_SECTION:waka-->
 
