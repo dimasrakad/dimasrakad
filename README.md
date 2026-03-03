@@ -20,9 +20,12 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 0 secs
+Total Time: 3 hrs 42 mins
 
-No activity tracked
+TypeScript   3 hrs 20 mins   ██████████████████████▓░░   90.15 %
+HTML         20 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.40 %
+JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
+CSS          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
 <!--END_SECTION:waka-->
