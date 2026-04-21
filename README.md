@@ -22,8 +22,11 @@ Here are some ideas to get you started:
 ```txt
 Total Time: 20 hrs 54 mins
 
-C#     20 hrs 43 mins  ████████████████████████▓   99.05 %
-HTML   11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.95 %
+C#           19 hrs 8 mins   ███████████████████████░░   91.52 %
+TypeScript   1 hr 7 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.37 %
+JSON         25 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.02 %
+HTML         13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 %
+SCSS         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 ```
 
 <!--END_SECTION:waka-->
