@@ -20,11 +20,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 13 hrs 30 mins
+Total Time: 6 hrs 48 mins
 
-C#     13 hrs 28 mins  █████████████████████████   99.74 %
-HTML   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
-JSON   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+C#   6 hrs 48 mins   █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
