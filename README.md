@@ -20,12 +20,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 16 hrs 57 mins
+Total Time: 11 hrs 20 mins
 
-C#           16 hrs 43 mins  ████████████████████████▓   98.57 %
-HTML         14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.38 %
-PowerShell   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
-Batchfile    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+C#     11 hrs 6 mins   ████████████████████████▒   97.94 %
+HTML   14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.06 %
 ```
 
 <!--END_SECTION:waka-->
