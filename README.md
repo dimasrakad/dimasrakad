@@ -20,13 +20,13 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 27 hrs 6 mins
+Total Time: 22 hrs 44 mins
 
-C#           24 hrs 22 mins  ██████████████████████▒░░   89.96 %
-TypeScript   2 hrs           ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 %
-HTML         19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 %
-JSON         10 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 %
-Git Config   8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
+C#           18 hrs 54 mins  ████████████████████▓░░░░   83.01 %
+TypeScript   2 hrs 45 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.12 %
+HTML         27 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.04 %
+Git Config   15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.17 %
+JSON         15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 %
 ```
 
 <!--END_SECTION:waka-->
